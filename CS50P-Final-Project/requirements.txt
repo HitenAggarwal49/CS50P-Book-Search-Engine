@@ -1,0 +1,4 @@
+requests
+pytest
+
+# These are the only required pip install libraries.
